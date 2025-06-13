@@ -4,6 +4,6 @@
   // Use the base codespace image
   "image": "mcr.microsoft.com/vscode/devcontainer/universal:latest",
   
-  "remoateUser": "codespace",
+  "remoteUser": "codespace",
   "overrideCommand": false
 }
