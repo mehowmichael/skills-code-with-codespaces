@@ -20,4 +20,6 @@
          ]
      }
  }
+ ,
+ "postCreateCommand": "echo 'Writing code upon codspace creation!' >> codespace.md"
 }
